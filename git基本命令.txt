@@ -1,0 +1,10 @@
+配置用户信息
+git config --global user.name stefan
+git config --global user.email 502681863@qq.com
+
+将文件添加暂存区
+git add a.txt
+
+git commit
+
+
