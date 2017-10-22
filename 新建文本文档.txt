@@ -1,1 +1,12 @@
 git使用测试
+
+
+
+git.exe push --progress "origin" master
+
+fatal: unable to access 'https://github.com/xfy007/gitFirst.git/': error setting certificate verify locations:
+CAfile: D:/IT??/Git/mingw64/libexec/ssl/certs/ca-bundle.crt
+CApath: none
+
+
+git 未能顺利结束 (退出码 128) (593 ms @ 2017/10/22 17:06:58)
